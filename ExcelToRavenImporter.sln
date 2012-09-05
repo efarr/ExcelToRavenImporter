@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToRavenImporter", "ExcelToRavenImporter.csproj", "{5903EB4C-5430-4391-B58F-968DD8CB1EC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BDCD8D48-EF57-474A-A13A-A1877EA6F720}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5903EB4C-5430-4391-B58F-968DD8CB1EC4}.Debug|x86.ActiveCfg = Debug|x86
+		{5903EB4C-5430-4391-B58F-968DD8CB1EC4}.Debug|x86.Build.0 = Debug|x86
+		{5903EB4C-5430-4391-B58F-968DD8CB1EC4}.Release|x86.ActiveCfg = Release|x86
+		{5903EB4C-5430-4391-B58F-968DD8CB1EC4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
